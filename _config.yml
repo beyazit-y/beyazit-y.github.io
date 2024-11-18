@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "beyazit-x.jpg"
   name             : "Beyazit Yalcinkaya"
-  pronouns         : "he/him"
+  pronouns         : # "he/him"
   bio              : "I'm a CS PhD student at UC Berkeley, working at the intersection of artificial intelligence, formal methods, and compositionality."
   location         : "Oakland, California"
   employer         : "University of California, Berkeley"
