@@ -11,11 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Formal methods, cyber-physical systems, AI/ML, AI safety, statistical verification, compositional
+analysis, runtime monitoring/assurance, goal-conditioned RL, representation learning.
 
-Work experience
+Education
+======
+* Ph.D. in Computer Science, University of California, Berkeley, USA (2021 - Present)
+* B.Sc. in Computer Engineering, Middle East Technical University, Ankara, Turkey (2015 - 2020)
+
+Research Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
