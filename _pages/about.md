@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: 
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About
 
 I am a 4th-year computer science Ph.D. student at UC Berkeley, advised by [Sanjit A. Seshia](https://people.eecs.berkeley.edu/~sseshia/). My research interests lie at the intersection of artificial intelligence (AI) and formal methods, with an emphasis on compositionality as a core principle and AI safety and alignment as primary focus areas. I pursue two major directions: (i) developing compositional formal analysis techniques for the scalable verification of black-box systems, and (ii) designing learning frameworks that leverage the compositionality and well-defined semantics of formal models.
 
