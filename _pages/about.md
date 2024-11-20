@@ -6,7 +6,7 @@ author_profile: true
 
 # About
 
-I am a 4th-year computer science Ph.D. student at University of California, Berkeley, advised by [Sanjit A. Seshia](https://people.eecs.berkeley.edu/~sseshia/). In 2020, I received my B.Sc. in computer engineering from Middle East Technical University in Ankara, Turkey, where I was mentored by [Ebru Aydin Gol](https://cps.ceng.metu.edu.tr/people/ebru-aydin-gol/) as an undergraduate research assistant for three years and worked on timed automata and signal temporal logic. In the summer of 2018, I was a research intern at the Max Planck Institute for Software Systems in Kaiserslautern, Germany, advised by [Björn B. Brandenburg](https://people.mpi-sws.org/~bbb/), where I applied timed automata to a schedulability problem in real-time systems. In 2019, I interned at École Polytechnique Fédérale de Lausanne, where I was advised by [George Candea](https://dslab.epfl.ch/people/candea/) and applied my formal methods background to latency analysis of networks.
+I am a 4th-year computer science Ph.D. student at University of California, Berkeley, advised by [Sanjit A. Seshia](https://people.eecs.berkeley.edu/~sseshia/). In 2020, I received my B.Sc. in computer engineering from Middle East Technical University in Ankara, Turkey, where I was advised by [Ebru Aydin Gol](https://cps.ceng.metu.edu.tr/people/ebru-aydin-gol/) as an undergraduate research assistant for three years. In the summer of 2018, I was a research intern at the Max Planck Institute for Software Systems in Kaiserslautern, Germany, advised by [Björn B. Brandenburg](https://people.mpi-sws.org/~bbb/). In 2019, I interned at École Polytechnique Fédérale de Lausanne, where I was advised by [George Candea](https://dslab.epfl.ch/people/candea/).
 
 # Research
 
