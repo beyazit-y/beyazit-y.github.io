@@ -10,7 +10,7 @@ I am a 4th-year computer science Ph.D. student at University of California, Berk
 
 # Research
 
-My research interests lie at the intersection of artificial intelligence (AI) and formal methods, with an emphasis on compositionality as a core principle and AI safety and alignment as primary focus areas. I pursue two major directions: (i) developing compositional formal analysis techniques for the scalable verification of black-box systems, and (ii) designing learning frameworks that leverage the compositionality and well-defined semantics of formal models.
+I work on artificial intelligence (AI) and formal methods, focusing on AI safety and aligment with  Frege’s principle (also called compositionality) in mind. I pursue two major directions: (i) developing compositional formal analysis techniques for the scalable verification of black-box systems, and (ii) designing learning frameworks that leverage the compositional and well-defined semantics of formal models.
 
 # Teaching
 
