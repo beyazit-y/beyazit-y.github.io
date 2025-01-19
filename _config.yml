@@ -12,22 +12,22 @@ title                    : "Beyazit Yalcinkaya"
 title_separator          : "-"
 name                     : &name "Beyazit Yalcinkaya"
 description              : &description "Beyazit's webpage"
-url                      : https://beyazit-x.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://beyazit-y.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "beyazit-x/beyazit-x.github.io"
+repository               : "beyazit-y/beyazit-y.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "beyazit-x.jpg"
+  avatar           : "beyazit-y.jpg"
   name             : "Beyazit Yalcinkaya"
   pronouns         : # "he/him"
   bio              : "I'm a CS PhD student at UC Berkeley, working at the intersection of artificial intelligence and formal methods."
   location         : "Oakland, California"
   employer         : "University of California, Berkeley"
-  URI              : "https://beyazit-x.github.io/"
+  URI              : "https://beyazit-y.github.io/"
   email            : "beyazit@berkeley.edu" 
 
   # Academic websites
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "beyazit-x"
+  github           : "beyazit-y"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
