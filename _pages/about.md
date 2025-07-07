@@ -30,3 +30,15 @@ I work at the intersection of artificial intelligence (AI) and formal methods, w
 - Mert Ergurtuna, **Beyazit Yalcinkaya**, and Ebru Aydin Gol, "An automated system repair framework with signal temporal logic," *Acta Informatica*, 2022. ([paper](https://beyazit-y.github.io/files/informatica22.pdf))
 - **Beyazit Yalcinkaya** and Ebru Aydin Gol, "Clock reduction in timed automata while preserving design parameters," *International Conference on Formal Methods in Software Engineering (FormaliSE)*, 2019. ([paper](https://beyazit-y.github.io/files/formalise19.pdf))
 - **Beyazit Yalcinkaya**, Mitra Nasri, and Björn B. Brandenburg, "An exact schedulability test for non-preemptive self-suspending real-time tasks," *Design, Automation and Test in Europe Conference (DATE)*, 2019. ([paper](https://beyazit-y.github.io/files/date19.pdf))
+
+# Service
+
+<!-- ## Reviewer -->
+
+### Subreviewer
+
+[NeuS 2025](https://neus-2025.github.io/), [TIME 2023](https://cer.iit.demokritos.gr/events/time23/)
+
+### Artifact Reviewer
+
+[TACAS 2025](https://etaps.org/2025/conferences/tacas/)
