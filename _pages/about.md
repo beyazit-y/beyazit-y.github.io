@@ -34,10 +34,11 @@ I work at the intersection of artificial intelligence (AI) and formal methods, w
 # Service
 
 <!-- ## Reviewer -->
+<!-- [NeurIPS 2025](https://neurips.cc/Conferences/2025) -->
 
 ### Subreviewer
 
-[NeuS 2025](https://neus-2025.github.io/), [TIME 2023](https://cer.iit.demokritos.gr/events/time23/)
+[NeuS 2025](https://neus-2025.github.io/), [TIME 2023](https://cer.iit.demokritos.gr/events/time23/)<!--,  [RV 2025](https://rv25.isec.tugraz.at/) -->
 
 ### Artifact Reviewer
 
