@@ -6,7 +6,7 @@ author_profile: true
 
 # About
 
-I am a 4th-year computer science Ph.D. student at University of California, Berkeley, advised by [Sanjit A. Seshia](https://people.eecs.berkeley.edu/~sseshia/). In 2020, I received my B.Sc. in computer engineering from [Middle East Technical University](https://www.metu.edu.tr/) in Ankara, Turkey, where I was advised by [Ebru Aydin Gol](https://cps.ceng.metu.edu.tr/people/ebru-aydin-gol/) as an undergraduate research assistant for three years. In the summer of 2018, I was a research intern at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Kaiserslautern, Germany, advised by [Björn B. Brandenburg](https://people.mpi-sws.org/~bbb/). In 2019, I interned at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/), where I was advised by [George Candea](https://dslab.epfl.ch/people/candea/).
+I am a Ph.D. candidate in Computer Science at University of California, Berkeley, advised by [Sanjit A. Seshia](https://people.eecs.berkeley.edu/~sseshia/). In 2020, I received my B.Sc. in computer engineering from [Middle East Technical University](https://www.metu.edu.tr/) in Ankara, Turkey, where I was advised by [Ebru Aydin Gol](https://cps.ceng.metu.edu.tr/people/ebru-aydin-gol/) as an undergraduate research assistant for three years. In the summer of 2018, I was a research intern at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) in Kaiserslautern, Germany, advised by [Björn B. Brandenburg](https://people.mpi-sws.org/~bbb/). In 2019, I interned at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/), where I was advised by [George Candea](https://dslab.epfl.ch/people/candea/).
 
 # Research
 
@@ -33,7 +33,10 @@ I work at the intersection of artificial intelligence (AI) and formal methods, w
 
 # Service
 
-<!-- ## Reviewer -->
+## Reviewer
+
+[VerifAI Workshop @ ICLR 2025](https://verifai-workshop.github.io/)
+
 <!-- [NeurIPS 2025](https://neurips.cc/Conferences/2025) -->
 
 ### Subreviewer
