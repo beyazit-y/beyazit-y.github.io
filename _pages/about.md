@@ -21,7 +21,9 @@ I work at the intersection of artificial intelligence (AI) and formal methods, w
 
 # Publications
 
-- **Beyazit Yalcinkaya**, Niklas Lauffer, Marcell Vazquez-Chanlatte\*, and Sanjit A. Seshia, "Provably Correct Automata Embeddings for Optimal Automata-Conditioned Reinforcement Learning," *2nd International Conference on Neuro-symbolic Systems (NeuS)*, 2025. ([paper](https://beyazit-y.github.io/files/neus25.pdf))
+- **Beyazit Yalcinkaya**, Marcell Vazquez-Chanlatte, Ameesh Shah, Hanna Krasowski, and Sanjit A. Seshia, "Automata-Conditioned Cooperative
+Multi-Agent Reinforcement Learning," *under review*, 2025. ([paper](https://beyazit-y.github.io/files/acc-marl.pdf))
+- **Beyazit Yalcinkaya**, Niklas Lauffer, Marcell Vazquez-Chanlatte, and Sanjit A. Seshia, "Provably Correct Automata Embeddings for Optimal Automata-Conditioned Reinforcement Learning," *2nd International Conference on Neuro-symbolic Systems (NeuS)*, 2025. ([paper](https://beyazit-y.github.io/files/neus25.pdf))
 - **Beyazit Yalcinkaya**\*, Niklas Lauffer\*, Marcell Vazquez-Chanlatte\*, and Sanjit A. Seshia, "Compositional Automata Embeddings for Goal-Conditioned Reinforcement Learning," *NeurIPS*, 2024. \***Equal contribution**. ([paper](https://beyazit-y.github.io/files/neurips24.pdf), [webpage](https://rad-embeddings.github.io/))
 - **Beyazit Yalcinkaya**\*, Niklas Lauffer\*, Marcell Vazquez-Chanlatte, and Sanjit A. Seshia, "Automata Conditioned Reinforcement Learning with Experience Replay," *NeurIPS 2023 Workshop on Goal-Conditioned Reinforcement Learning*, 2023. \***Equal contribution**. ([paper](https://beyazit-y.github.io/files/gcrl23.pdf))
 - **Beyazit Yalcinkaya**, Hazem Torfah, Daniel J. Fremont, and Sanjit A. Seshia, "Compositional Simulation-Based Analysis of AI-Based Autonomous Systems for Markovian Specifications," *International Conference on Runtime Verification (RV)*, 2023. ([paper](https://beyazit-y.github.io/files/rv23.pdf))
@@ -35,13 +37,11 @@ I work at the intersection of artificial intelligence (AI) and formal methods, w
 
 ## Reviewer
 
-[VerifAI Workshop @ ICLR 2025](https://verifai-workshop.github.io/)
-
-<!-- [NeurIPS 2025](https://neurips.cc/Conferences/2025) -->
+[VerifAI Workshop @ ICLR 2025](https://verifai-workshop.github.io/), [NeurIPS 2025](https://neurips.cc/Conferences/2025)
 
 ### Subreviewer
 
-[NeuS 2025](https://neus-2025.github.io/), [TIME 2023](https://cer.iit.demokritos.gr/events/time23/)<!--,  [RV 2025](https://rv25.isec.tugraz.at/) -->
+[NeuS 2025](https://neus-2025.github.io/), [TIME 2023](https://cer.iit.demokritos.gr/events/time23/), [RV 2025](https://rv25.isec.tugraz.at/) 
 
 ### Artifact Reviewer
 
