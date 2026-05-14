@@ -39,7 +39,7 @@ Multi-Agent Reinforcement Learning," *ICML*, 2026 (to appear). ([paper](https://
 
 ## Reviewer
 
-[VerifAI Workshop @ ICLR 2025](https://verifai-workshop.github.io/), [NeurIPS 2025](https://neurips.cc/Conferences/2025), [VerifAI Workshop @ ICLR 2026](https://verifai-workshop.github.io/), [ICML 2026](https://icml.cc/Conferences/2026)
+[VerifAI Workshop @ ICLR 2025](https://verifai-workshop.github.io/), [NeurIPS 2025](https://neurips.cc/Conferences/2025), [VerifAI Workshop @ ICLR 2026](https://verifai-workshop.github.io/), [ICML 2026](https://icml.cc/Conferences/2026) (Silver Reviewer)
 
 ### Subreviewer
 
