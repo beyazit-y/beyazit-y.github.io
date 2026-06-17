@@ -22,10 +22,11 @@ I work at the intersection of artificial intelligence (AI) and formal methods, w
 
 # Publications
 
-- **Beyazit Yalcinkaya**, Marcell Vazquez-Chanlatte, and Sanjit A. Seshia, "Learning Task-Conditioned Policies with Natural Language and
-Graph Embeddings of Formal Specifications," *3rd International Conference on Neuro-symbolic Systems (NeuS)*, 2026 (to appear). ([paper](https://beyazit-y.github.io/files/neus26.pdf))
 - **Beyazit Yalcinkaya**, Marcell Vazquez-Chanlatte, Ameesh Shah, Hanna Krasowski, and Sanjit A. Seshia, "Automata-Conditioned Cooperative
 Multi-Agent Reinforcement Learning," *ICML*, 2026 (to appear). ([paper](https://beyazit-y.github.io/files/icml26.pdf))
+- **Beyazit Yalcinkaya**, Marcell Vazquez-Chanlatte, and Sanjit A. Seshia, "Learning Task-Conditioned Policies with Natural Language and
+Graph Embeddings of Formal Specifications," *3rd International Conference on Neuro-symbolic Systems (NeuS)*, 2026 (to appear). ([paper](https://beyazit-y.github.io/files/neus26.pdf), [slides](https://beyazit-y.github.io/files/neus26/index.html))
+- Pau de las Heras Molins, **Beyazit Yalcinkaya**, Lasse Peters, David Fridovich-Keil, and Georgios Bakirtzis, "Controllability in Preference-Conditioned Multi-objective Reinforcement Learning," *3rd International Conference on Neuro-symbolic Systems (NeuS)*, 2026 (to appear). ([paper](https://arxiv.org/pdf/2605.10585))
 - **Beyazit Yalcinkaya**, Niklas Lauffer, Marcell Vazquez-Chanlatte, and Sanjit A. Seshia, "Provably Correct Automata Embeddings for Optimal Automata-Conditioned Reinforcement Learning," *2nd International Conference on Neuro-symbolic Systems (NeuS)*, 2025. ([paper](https://beyazit-y.github.io/files/neus25.pdf))
 - **Beyazit Yalcinkaya**\*, Niklas Lauffer\*, Marcell Vazquez-Chanlatte\*, and Sanjit A. Seshia, "Compositional Automata Embeddings for Goal-Conditioned Reinforcement Learning," *NeurIPS*, 2024. \***Equal contribution**. ([paper](https://beyazit-y.github.io/files/neurips24.pdf), [webpage](https://rad-embeddings.github.io/neurips24))
 - **Beyazit Yalcinkaya**\*, Niklas Lauffer\*, Marcell Vazquez-Chanlatte, and Sanjit A. Seshia, "Automata Conditioned Reinforcement Learning with Experience Replay," *NeurIPS 2023 Workshop on Goal-Conditioned Reinforcement Learning*, 2023. \***Equal contribution**. ([paper](https://beyazit-y.github.io/files/gcrl23.pdf))
@@ -40,7 +41,7 @@ Multi-Agent Reinforcement Learning," *ICML*, 2026 (to appear). ([paper](https://
 
 ## Reviewer
 
-[VerifAI Workshop @ ICLR 2025](https://verifai-workshop.github.io/), [NeurIPS 2025](https://neurips.cc/Conferences/2025), [VerifAI Workshop @ ICLR 2026](https://verifai-workshop.github.io/), [ICML 2026](https://icml.cc/Conferences/2026) (Silver Reviewer)
+[VerifAI Workshop @ ICLR 2025](https://verifai-workshop.github.io/), [NeurIPS 2025](https://neurips.cc/Conferences/2025), [VerifAI Workshop @ ICLR 2026](https://verifai-workshop.github.io/), [ICML 2026](https://icml.cc/Conferences/2026)
 
 ### Subreviewer
 
